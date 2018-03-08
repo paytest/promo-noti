@@ -1,66 +1,77 @@
 {
   "country": {
     "ae": {
+      "min_version": "294500000",
       "all": {
         "all": "https://paytest.github.io/promo-noti/promo_json/ae/promo_default.json"
       }
     },
 
     "au": {
+      "min_version": "294500000",
       "all": {
         "all": "https://paytest.github.io/promo-noti/promo_json/au/promo_default.json"
       }
     },
 
     "ch": {
+      "min_version": "294500000",
       "all": {
         "all": "https://paytest.github.io/promo-noti/promo_json/ch/promo_default.json"
       }
     },
 
     "hk": {
+      "min_version": "294500000",
       "all": {
         "all": "https://paytest.github.io/promo-noti/promo_json/hk/promo_default.json"
       }
     },
 
     "in": {
+      "min_version": "294500000",
       "all": {
         "all": "https://paytest.github.io/promo-noti/promo_json/in/promo_default.json"
       }
     },
 
     "my": {
+      "min_version": "294500000",
       "all": {
         "all": "https://paytest.github.io/promo-noti/promo_json/my/promo_default.json"
       }
     },
 
     "mx": {
+      "min_version": "294500000",
       "all": {
         "all": "https://paytest.github.io/promo-noti/promo_json/mx/promo_default.json"
       }
     },
 
     "sg": {
+      "min_version": "294500000",
       "all": {
         "all": "https://paytest.github.io/promo-noti/promo_json/sg/promo_default.json"
       }
     },
 
     "th": {
+      "min_version": "294500000",
       "all": {
         "all": "https://paytest.github.io/promo-noti/promo_json/th/promo_default.json"
       }
     },
 
     "tw": {
+      "min_version": "294500000",
       "all": {
         "all": "https://paytest.github.io/promo-noti/promo_json/tw/promo_default.json"
       }
     },
 
     "uk": {
+      "min_version": "294500000",
       "all": {
         "all": "https://paytest.github.io/promo-noti/promo_json/uk/promo_default.json"
       }
