@@ -6,7 +6,7 @@
     "promoTitleForNoti": "",
     "promoContentForNoti": "",
     "promoImg": "https://paytest.github.io/promo-noti/promo_image/mx/sp_card_capture_default_push_image.jpg",
-    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/mx/sp_card_capture_default_inline_image.png",
+    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/mx/sp_card_capture_default_inline_image.jpg",
     "promoClickIntent": {
         "intentType" : "ACTIVITY",
         "action": "android.intent.action.VIEW",
@@ -21,7 +21,7 @@
     "promoTitleForNoti": "",
     "promoContentForNoti": "",
     "promoImg": "https://paytest.github.io/promo-noti/promo_image/mx/sp_card_capture_default_push_image.jpg",
-    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/mx/sp_card_capture_default_inline_image.png",
+    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/mx/sp_card_capture_default_inline_image.jpg",
     "promoClickIntent": {
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
@@ -35,7 +35,7 @@
     "promoTitleForNoti": "",
     "promoContentForNoti": "",
     "promoImg": "https://paytest.github.io/promo-noti/promo_image/mx/sp_card_capture_default_push_image.jpg",
-    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/mx/sp_card_capture_default_inline_image.png",
+    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/mx/sp_card_capture_default_inline_image.jpg",
     "promoClickIntent": {
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
@@ -49,7 +49,7 @@
     "promoTitleForNoti": "",
     "promoContentForNoti": "",
     "promoImg": "https://paytest.github.io/promo-noti/promo_image/mx/sp_card_capture_default_push_image.jpg",
-    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/mx/sp_card_capture_default_inline_image.png",
+    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/mx/sp_card_capture_default_inline_image.jpg",
     "promoClickIntent": {
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
@@ -63,7 +63,7 @@
     "promoTitleForNoti": "",
     "promoContentForNoti": "",
     "promoImg": "https://paytest.github.io/promo-noti/promo_image/mx/sp_card_capture_default_push_image.jpg",
-    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/mx/sp_card_capture_default_inline_image.png",
+    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/mx/sp_card_capture_default_inline_image.jpg",
     "promoClickIntent": {
         "intentType" : "ACTIVITY",
         "action": "android.intent.action.VIEW",

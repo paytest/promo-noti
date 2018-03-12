@@ -14,6 +14,13 @@
       }
     },
 
+    "br": {
+      "min_version": "294500000",
+      "all": {
+        "all": "https://paytest.github.io/promo-noti/promo_json/br/promo_default.json"
+      }
+    },
+
     "ch": {
       "min_version": "294500000",
       "all": {
