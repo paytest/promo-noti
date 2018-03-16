@@ -66,8 +66,8 @@
     "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/sg/sp_card_capture_default_inline_image.png",
     "promoClickIntent": {
         "intentType" : "ACTIVITY",
-        "action": "android.intent.action.VIEW",
-        "data": "samsungpay://launch?action=main"
+        "action": "settings",
+        "data": "samsungpay://launch?action=settings&menu=about_samsungpay&thruhome=true"
     },
     "isPromotionRunning": "false"
 }, {
