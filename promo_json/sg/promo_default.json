@@ -67,7 +67,7 @@
     "promoClickIntent": {
         "intentType" : "ACTIVITY",
         "action": "settings",
-        "data": "samsungpay://launch?action=settings&menu=about_samsungpay&thruhome=true"
+        "data": "samsungpay://launch?action=aboutsamsungpay"
     },
     "isPromotionRunning": "false"
 }, {
