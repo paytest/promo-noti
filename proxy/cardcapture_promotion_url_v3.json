@@ -21,6 +21,13 @@
       }
     },
 
+    "ca": {
+      "min_version": "284000000",
+      "all": {
+        "all": "https://paytest.github.io/promo-noti/promo_json/ca/promo_default.json"
+      }
+    },
+
     "ch": {
       "min_version": "294500000",
       "all": {
@@ -77,10 +84,10 @@
       }
     },
 
-    "uk": {
+    "gb": {
       "min_version": "294500000",
       "all": {
-        "all": "https://paytest.github.io/promo-noti/promo_json/uk/promo_default.json"
+        "all": "https://paytest.github.io/promo-noti/promo_json/gb/promo_default.json"
       }
     },
 
