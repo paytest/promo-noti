@@ -5,8 +5,8 @@
     "promoContent": "Rewards for every purchase",
     "promoTitleForNoti": "",
     "promoContentForNoti": "",
-    "promoImg": "https://paytest.github.io/promo-noti/promo_image/us/sp_card_capture_default_push_image.jpg",
-    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/us/sp_card_capture_default_inline_image.png",
+    "promoImg": "https://paytest.github.io/promo-noti/promo_image/us/default_push.jpg",
+    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/us/default_inline.jpg",
     "promoClickIntent": {
         "intentType" : "ACTIVITY",
         "action": "android.intent.action.VIEW",
@@ -20,8 +20,8 @@
     "promoContent": "Rewards for every purchase",
     "promoTitleForNoti": "",
     "promoContentForNoti": "",
-    "promoImg": "https://paytest.github.io/promo-noti/promo_image/us/sp_card_capture_default_push_image.jpg",
-    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/us/sp_card_capture_default_inline_image.png",
+    "promoImg": "https://paytest.github.io/promo-noti/promo_image/us/push_image_cardcapture_2018.jpg",
+    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/us/sp_card_capture_500pts_inline.png",
     "promoClickIntent": {
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
@@ -34,8 +34,8 @@
     "promoContent": "Rewards for every purchase",
     "promoTitleForNoti": "",
     "promoContentForNoti": "",
-    "promoImg": "https://paytest.github.io/promo-noti/promo_image/us/sp_card_capture_default_push_image.jpg",
-    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/us/sp_card_capture_default_inline_image.png",
+    "promoImg": "https://paytest.github.io/promo-noti/promo_image/us/push_image_cardcapture_2018.jpg",
+    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/us/sp_card_capture_500pts_inline.png",
     "promoClickIntent": {
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
@@ -48,8 +48,8 @@
     "promoContent": "Rewards for every purchase",
     "promoTitleForNoti": "",
     "promoContentForNoti": "",
-    "promoImg": "https://paytest.github.io/promo-noti/promo_image/us/sp_card_capture_default_push_image.jpg",
-    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/us/sp_card_capture_default_inline_image.png",
+    "promoImg": "https://paytest.github.io/promo-noti/promo_image/us/default_push.jpg",
+    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/us/default_inline.jpg",
     "promoClickIntent": {
         "intentType" : "SERVICE",
         "action": "com.samsung.android.spay.intent.ACTION_ADD_CARD"
@@ -62,8 +62,8 @@
     "promoContent": "Rewards for every purchase",
     "promoTitleForNoti": "",
     "promoContentForNoti": "",
-    "promoImg": "https://paytest.github.io/promo-noti/promo_image/us/sp_card_capture_default_push_image.jpg",
-    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/us/sp_card_capture_default_inline_image.png",
+    "promoImg": "https://paytest.github.io/promo-noti/promo_image/us/default_push.jpg",
+    "promoImgInline": "https://paytest.github.io/promo-noti/promo_image/us/default_inline.jpg",
     "promoClickIntent": {
         "intentType" : "ACTIVITY",
         "action": "android.intent.action.VIEW",
